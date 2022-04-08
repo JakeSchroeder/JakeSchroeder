@@ -1,4 +1,4 @@
-### Programming is an art form. 👋
+### Programming is an art form.
 
 <!--
 **JakeSchroeder/JakeSchroeder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
