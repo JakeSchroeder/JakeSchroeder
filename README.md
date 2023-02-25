@@ -7,6 +7,7 @@ function jake () {
   }
   jake();
 }
+jake();
 ```
 
 <!--
