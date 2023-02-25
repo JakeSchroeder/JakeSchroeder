@@ -1,9 +1,13 @@
 ### 
 
-(() => {
-  if(eval(life))
-     eval(life)
-}())
+```js
+function jake () {
+  if(alive) {
+    eval(life)
+  }
+  jake();
+}
+```
 
 <!--
 **JakeSchroeder/JakeSchroeder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
